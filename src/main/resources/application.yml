@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: infamousBooker
+netty:
+  default:
+    allocator:
+      max-order: 3
